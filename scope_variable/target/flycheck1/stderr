@@ -1,0 +1,4 @@
+    Checking scope_variable v0.1.0 (/home/diallo/github/piscine-rust/scope_variable)
+error: could not compile `scope_variable` (bin "scope_variable" test) due to 2 previous errors
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `scope_variable` (bin "scope_variable") due to 2 previous errors
